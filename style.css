@@ -1,0 +1,20 @@
+h1 {
+font-size: 60px;
+text-align: right;
+color:  yellow;
+background-color: ;
+
+
+.texto {
+    text-align: center;
+    color:rgb(33, 31, 31)
+    font-size: 20px
+    background-color: #489ce1;
+}
+
+}
+
+.italico{
+    color: blue;
+    font-family: Helvetica;
+}
